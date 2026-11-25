@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Bianca
 
-<!--
-**bianca-crepaldi/bianca-crepaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst moving into **Analytics Engineering**, based in Brazil.
 
-Here are some ideas to get you started:
+- 3+ years building end-to-end data solutions with SQL, BigQuery and Power BI across logistics, revenue operations and finance
+- Built a stock replenishment forecasting solution processing millions of rows, rolled out to all clients at Mundial Logistics
+- Background in Economics (PUCPR)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+**Working with:** SQL (BigQuery) · Python · Data Modeling · ETL · Power BI · Looker Studio · Tableau
+
+**Currently learning:** dbt · Git · Docker · Pipeline orchestration
+
+## Projects
+
+Coming soon: an end-to-end analytics engineering project (API ingestion → BigQuery → dbt → dashboard).
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/biancacrepaldir-data/) · biancacrepaldi10@gmail.com
